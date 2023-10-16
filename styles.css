@@ -1,0 +1,22 @@
+.left-row{
+  display: inline-block;
+  color:aquamarine;
+  padding: 2.5px;
+
+}
+.middle-row{
+  display: inline-block;
+  color:blueviolet;
+  padding: 2.5px;
+}
+.right-row{
+  display: inline-block;
+  color:black;
+  padding: 2.5px;
+}
+h2{
+  padding: 10px;
+  border-radius: 5px;
+  border: dotted 2px;
+  border-color: royalblue;
+}
